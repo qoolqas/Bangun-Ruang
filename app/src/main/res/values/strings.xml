@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ulangan_BangunRuang</string>
+    <string name="header_tv_label">Menghitung Persegi Panjang</string>
+    <string name="panjang_tv_label">Panjang</string>
+    <string name="lebar_tv_label">Lebar</string>
+    <string name="Tinggi_tv_label">Tinggi</string>
+    <string name="keliling_btn_label">Keliling</string>
+    <string name="luas_btn_label">Luas</string>
+    <string name="volume_btn_label">Volume</string>
+</resources>
